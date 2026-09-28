@@ -18,3 +18,5 @@ diagnostico(hacer, '¡Excelente! La palabra está escrita correctamente.').
 
 diagnostico(ola, 'Error: Si te refieres al saludo, se escribe "hola", con H.').
 diagnostico(hola, '¡Excelente! La palabra está escrita correctamente.').
+
+%Sisi ejemplo
